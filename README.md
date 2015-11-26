@@ -5,3 +5,8 @@ Number---------Prime Number
 35             5x7
 15             3x5
 200            2x2x2x5x5  <<< Me
+
+
+รอสรุป
+
+do_while => for => while => if condition จะเยอะอะไรขนาดนั้น
